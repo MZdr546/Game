@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec19bf023dbe9bd4985d18ad3afe5eb6, type: 3}
+  m_Name: NPC_Forest
+  m_EditorClassIdentifier: 
+  lines: []
+  NpcLines:
+  - "By\u0142em przy moscie i niestety brakuj\u0119 w nim desek"
+  - "Na szcz\u0119\u015Bcie b\u0119d\u0119 m\xF3g\u0142 to naprawi\u0107 je\u015Bli
+    przyniesz mi 5 desek"
+  - "Powinny by\u0107 w obozie obok"
+  - "Dzi\u0119ki! B\u0119d\u0119 tu czeka\u0107 :D"
+  - "Nuella czeka przy mo\u015Bcie je\u015Bli chcia\u0142by\u015B z ni\u0105 porozmawia\u0107"
+  NpcLineQuest:
+  - "Musisz zebra\u0107 5 desek :D"
+  - "Wr\xF3\u0107 kiedy zbierzesz ju\u017C wszystkie! :)"
+  NpcLineComplitedQuest:
+  - "Dzi\u0119kuje za wykonanie zadania"
+  - "Teraz mo\u017Cemy i\u015B\u0107 w stron\u0119 zamku"
+  NpcLineKillQuest:
+  - "Pojawi\u0142y si\u0119 potwory :o"
+  - Co teraz zrobimy....
+  - "Prosz\u0119 walcz z nimi a ja naprawi\u0119 w tym czasie most"
+  NpcLineComplitedKillQuest:
+  - "Dzi\u0119kuj\u0119 :D"
+  - "Teraz mog\u0119 naprawi\u0107 most "
+  - "Pami\u0119taj \u017Ce je\u015Bli wejdziesz do zamku nie b\u0119dzi\u0119sz m\xF3g\u0142
+    wr\xF3ci\u0107"
+  - "Uwa\u017Caj na siebi\u0119"
+  - Powodzenia
